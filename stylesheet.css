@@ -1,0 +1,89 @@
+
+body {
+    background: rgb(104, 187, 285);
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.taille {
+    width:200px;
+    height: 200px;
+}
+
+.experience {
+    padding: 5px;
+}
+
+.study {
+    padding: 5px;
+}
+
+#container {
+    padding: 5px;
+}
+
+#header {
+    text-align: center;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#left-box {
+    float: left;
+    background: rgb(9, 30, 45);
+    border: 1px solid black;
+    border-radius: 5px;
+    color: #FFF;
+    width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#left-box img {
+    margin: 18px 0px 0px 95px;
+}
+
+#right-box {
+    float: right;
+    border: 1px solid black;
+    background: white;
+    border-radius: 5px;
+    width: 70%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#experiences-box {
+    background: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#studies-box {
+    background: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#footer {
+    border: 1px solid black;
+    border-radius: 5px;
+    left: 10px;
+    right: 10px;
+    bottom:10px;
+    height:60px;
+    clear: both;
+}
